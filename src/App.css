@@ -1,0 +1,29 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+.header{
+  max-width: 1100px;
+  margin: 100px auto;
+  padding: 0;
+  text-align: center;
+}
+input{
+  width: 60%;
+  height: 40px;
+  margin-top: 20px;
+}
+button{
+  width: 300px;
+  height: 40px;
+  color: white;
+  background-color: blue;
+  border: none;
+  font-weight: 600;
+  margin: 20px;
+}
+label{
+  font-size: 18px;
+  padding-top: 15px;
+}
